@@ -200,7 +200,7 @@
             &kp TAB           &kp Q  &kp W    &kp E      &kp R             &kp T        &kp Y             &kp U      &kp I    &kp O
             &kp LEFT_CONTROL  &kp A  &kp S    &kp D      &kp F             &kp H        &kp J             &kp K      &kp L    &kp N
 &kp LSHIFT  &kp LEFT_ALT      &kp Z  &kp X    &kp C      &kp V             &kp N        &kp M             &kp COMMA  &kp DOT  &kp SLASH  &tog GAMING
-                                     &kp TAB  &kp LCTRL  &lt NAVI SPACE    &lt SYM RET  &kp LEFT_CONTROL  &kp BSPC
+                                     &kp TAB  &kp LCTRL  &kp SPACE    &lt SYM RET  &kp LEFT_CONTROL  &kp BSPC
             >;
         };
 
