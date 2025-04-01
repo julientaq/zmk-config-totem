@@ -41,7 +41,7 @@
 
 &msc {
     acceleration-exponent = <1>;
-}
+};
 
 &mmv {
     x-input-code = <INPUT_REL_X>;
