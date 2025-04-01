@@ -106,7 +106,7 @@
             //             ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫
             //             ┃     A     ┃     s     ┃     D     ┃     f     ┃     g     ┃   ┃     h     ┃     j     ┃     k     ┃     l     ┃     m     ┃
             // ┏━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┓
-            // ┃     q     ┃     z     ┃     x     ┃     c     ┃     V     ┃     B     ┃   ┃     n     ┃     m     ┃     ,     ┃     .     ┃     /     ┃       p   ┃
+            // ┃     q     ┃     z     ┃     x     ┃     c     ┃     V     ┃     B     ┃   ┃     n     ┃     m     ┃     ,     ┃     .     ┃     /     ┃   GAM     ┃
             // ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┫   ┣━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━╋━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
             //                                     ┃           ┃    TAB    ┃    SPC    ┃   ┃   ENTER   ┃   BSPC    ┃           ┃
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
@@ -115,7 +115,7 @@
               &kp Q         &kp W       &kp E       &kp R       &kp T          &kp Y        &kp U       &kp I       &kp O       &kp P
               &mt LCTRL A   &mt LALT S  &mt LALT D  &mt LGUI F  &kp G          &kp H        &mt RGUI J  &mt RALT K  &mt RALT L  &mt RCTRL SEMI
 &mt LSHIFT Z  &mt LSHIFT Z  &kp X       &kp C       &kp V       &kp B          &kp N        &kp M       &kp COMMA   &kp DOT     &mt LSHIFT FSLH  &tog GAMING
-                                        &mkp LCLK   &lt 3 TAB   &lt 1 SPACE    &lt SYM RET  &lt 3 TAB   &kp BSPC
+                                        &mkp LCTRL   &lt 3 TAB   &lt 1 SPACE    &lt SYM RET  &lt 3 TAB   &kp LGUI
             >;
         };
 
