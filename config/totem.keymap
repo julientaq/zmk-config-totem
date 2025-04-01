@@ -40,7 +40,7 @@
 };
 
 &msc {
-    acceleration-exponent = <1>
+    acceleration-exponent = <1>;
 }
 
 &mmv {
