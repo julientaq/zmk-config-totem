@@ -33,9 +33,11 @@
 #define ADJ  5
 
 &mt {
-    global-quick-tap;
-    flavor = "tap-preferred";
-    tapping-term-ms = <100>;
+    flavor = "balanced";
+    tapping-term-ms = <280>;
+    quick-tap-ms = <175>;
+    require-prior-idle-ms = <150>;
+    // bindings = <&kp>, <&kp>;
 };
 
 &msc {
